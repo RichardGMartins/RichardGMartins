@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Looking for a job in the programming field <br>🤝 I’m looking for help with JS/JAVA <br>🌱 I’m currently learning PHP/JS/JAVA <br>💬 Ask me about PHP<br>⚡ Fun fact, I have to read the same thing 3 times to understand it.
 
 
 # 💻 Tech Stack:
