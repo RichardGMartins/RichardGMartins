@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 Looking for a job in the programming field <br>🤝 I’m looking for help with JS/JAVA <br>🌱 I’m currently learning PHP/JS/JAVA <br>💬 Ask me about PHP<br>⚡ Fun fact, I have to read the same thing 3 times to understand it. Contact richard.gmartins@hotmail.com or richard.gmartins@gmail.com
+🔭 Looking for a job in the programming field <br>🤝 I’m looking for help with JS/JAVA <br>🌱 I’m currently learning PHP/JS/JAVA <br>💬 Ask me about PHP<br>⚡ Fun fact, I have to read the same thing 3 times to understand it.<br> Contact richard.gmartins@hotmail.com or richard.gmartins@gmail.com
 
 
 # 💻 Tech Stack:
