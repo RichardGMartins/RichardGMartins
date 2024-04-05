@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br># 💫 About Me:<br>🔭 Looking for a job in the programming field <br>🤝 I’m looking for help with JS/JAVA <br>🌱 I’m currently learning PHP/JS/JAVA <br>💬 Ask me about PHP<br>⚡ Fun fact, I have to read the same thing 3 times to understand it.<br>📩 Contact richard.gmartins@hotmail.com or richard.gmartins@gmail.com
+<br># 💫 About Me:<br>🔭 Looking for a job in the programming field <br>🤝 I’m looking for help with JS/PHP <br>🌱 I’m currently learning PHP/JS/LARAVEL <br>💬 Ask me about PHP<br>⚡ Fun fact, I have to read the same thing 3 times to understand it.<br>📩 Contact richard.gmartins@hotmail.com or richard.gmartins@gmail.com
 
 
 ## 🌐 Socials:
